@@ -14,7 +14,7 @@
 
 ---
 
-⚡ About Me
+About Me
 ```python
 class AdarshRout:
     def __init__(self):
