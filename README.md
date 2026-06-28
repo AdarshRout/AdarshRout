@@ -7,7 +7,7 @@
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-rout-only568)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshrout321@gmail.com)
-[![Instagram](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.instagram.com/yapperbox_)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.instagram.com/yapperbox_)
 ![Profile Views](https://komarev.com/ghpvc/?username=AdarshRout&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
 
 </div>
